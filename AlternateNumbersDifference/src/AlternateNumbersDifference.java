@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-
+//Againnnnn
 public class AlternateNumbersDifference {
 	public static void main(String[] args) {
 		int n1=30;
